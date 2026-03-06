@@ -1,6 +1,7 @@
 # 📊 Sales Analysis 
 
-## 📌 Overview  
+## 📌 Project Overview
+The **Sales Performance Dashboard** project focuses on analyzing sales data to provide clear insights into business performance across different dimensions such as sales, orders, and regional distribution.
 
 
 <hr/>
@@ -14,7 +15,13 @@
 
 <hr/>
 
-## 🌟 Project Highlights  
+## 🔎 Project Highlights
+- Built a **multi-page interactive Power BI dashboard** to analyze sales performance.
+- Designed **KPI cards** to track key metrics including **Total Sales, Total Profit, Profit Margin, and Tax Rate**.
+- Built a **regional sales overview** to highlight top-performing cities and states.
+- Designed a **clean and intuitive dashboard layout** to improve user experience and readability.
+- Applied **data modeling and DAX measures** to support accurate calculations and dynamic insights.
+
 
 
 
